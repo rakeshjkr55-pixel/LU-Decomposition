@@ -26,13 +26,14 @@ RegisterNumber:
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Rakesh.j
+RegisterNumber: 26011138
 */
 ```
 
 ## Output:
-![lu decomposition]()
+<img width="1233" height="577" alt="Screenshot 2026-10-24 091134" src="https://github.com/user-attachments/assets/209b9363-6364-47b5-ab60-66c507fe5625" />
+
 
 
 ## Result:
